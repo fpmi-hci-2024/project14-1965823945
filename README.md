@@ -10,7 +10,7 @@
 
 * [Лабораторная работа 1](https://1drv.ms/w/c/b4826b84e4a8dc15/ETNhAc7kx7BCmK6Z3L2hRWMBWHSHpAcRz1Xo1w2ifdGy_g?e=BnzN8b)
 * [Лабораторная работа 2](https://1drv.ms/w/c/b4826b84e4a8dc15/EazjRIlZnWxJk_aoo7HnGu0BEHSoW1c11GosQADes4BWAA?e=306IJU)
-* [Лабораторная работа 3]()
+* [Лабораторная работа 3/4/5/6](https://github.com/fpmi-hci-2024/project14-1965823945/wiki)
 
 # Installation
 
